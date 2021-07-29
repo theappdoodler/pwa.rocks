@@ -2,6 +2,8 @@
 
 What is a progressive web app? See the “[Progressive Web Apps](https://youtu.be/MyQ8mtR9WxI)” talk by [Alex Russell](https://github.com/slightlyoff) and [Andreas Bovens](https://github.com/andreasbovens).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8c0d9b4b-6bda-497f-8a56-fd4dbdfdd4f0/deploy-status)](https://app.netlify.com/sites/pwarocks/deploys)
+
 ## Contributing
 
 We’re happy to feature other nice-looking progressive web apps in the list. They should:
